@@ -1,0 +1,42 @@
+body {
+	font-size: 18px;
+   }
+strong {
+    font-weight: bold;
+    }
+    a {
+    background-color: transparent
+    }
+
+    #wrapper {
+		display: flex;
+		height: 80px
+	  }
+	   
+	#left {
+		width: 120px;
+		height: 80px; 
+		background-image: linear-gradient(to right, #60d3e7, #4ae48f)
+	  }
+	   
+	#right {
+		width: 100%;
+		background-image: linear-gradient(to right, #60d3e7, #4ae48f)
+	  }
+#wrapper2 {
+	display: flex;
+}	
+#left2 {
+	padding-top: 30px;
+	width: 15%;
+  }
+   
+  #right2 {
+	width: 80%;
+  }
+  a:link {
+    color: #3700ff; 
+   }
+   a:visited {
+    color: #3700ff; 
+   }
